@@ -1,0 +1,25 @@
+{
+     "users" : [
+          {
+               "id" : 1,
+               "name" : "shyam sundar",
+               "email" : "shyam@baseapp.com",
+               "password" : "Shyam@baseapp"
+          },
+
+          {
+               "id" : 2,
+               "name" : "dipak kumar",
+               "email" : "dipak@baseapp.com",
+               "password" : "dipak@baseapp"
+          },
+
+          {
+               "id" : 3,
+               "name" : "ashish kumar",
+               "email" : "ashish@baseapp.com",
+               "password" : "ashish@baseapp"
+          }
+
+     ]
+}
